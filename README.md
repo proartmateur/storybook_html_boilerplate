@@ -22,19 +22,6 @@ Each branch has an special configuration.
  yarn storybook
  ```
 
-
-**Build tailwindcss**
-
-*npm*
-```bash
- npm run style:build
- ```
-
-*yarn*
-```bash
- yarn style:build
- ```
-
 *Notes*
 <br>
 <small> This boilerplate was inspired in: </small>
